@@ -1,4 +1,4 @@
-# USB-C_LIR2032_Battery_Charger
+# USB-C LIR2032 Battery Charger
 
 ### What is it?
 A lithium coin cell battery charger for charging LIR2032 rechargeable batteries. 
